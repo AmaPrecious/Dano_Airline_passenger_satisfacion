@@ -27,7 +27,7 @@ Before visualizing data in Power BI, the following steps were undertaken:
 
 2. *Data Cleaning and Transformation:* The imported data was cleaned and transformed using Power Query Editor. This involved tasks such as removing duplicates, filtering rows, correcting data types, handling missing values, and performing other data cleansing operations to ensure data accuracy and consistency.
 
-3. *Data Modeling:* Although not explicitly creating a data model, some level of data modeling may have been involved. This could include grouping columns, creating new calculated columns using DAX expressions, defining relationships between tables (if applicable), and organizing data in a way that facilitates analysis.
+3. *Data Modeling:* Although not explicitly creating a data model, some level of data modeling were involved. Which included grouping columns, creating new calculated columns using DAX expressions, defining relationships between tables, and organizing data in a way that facilitates analysis.
 
 4. *DAX Calculations:* DAX expressions were utilized to create new measures or calculated columns based on specific business requirements. These measures could include aggregations, calculations, or transformations needed for analysis and reporting.
 
