@@ -6,6 +6,7 @@
 For this challenge, I be assuming the role of a Data Analyst for Dano Airlines *disclaimer* it is a fictional Company, a Uk-based airline headquartered in London, United Kingdom. The latest passenger survey results just came in and it looks like the satisfaction rate dipped under 50% for the first time ever. The leadership team needs to take action fast, so they've brought you in to analyze the data and find the key areas to focus on for getting back on track.
 
 ## Data Source
+
 To gain access to the data set used for this analysis, [click here](https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-OMX8xVZOJ5VL7f35v7sRQ/edit#gid=1647986900)
 
 ## Tools
@@ -31,7 +32,7 @@ Before visualizing data in Power BI, the following steps were undertaken:
 
 4. *DAX Calculations:* DAX expressions were utilized to create new measures or calculated columns based on specific business requirements. These measures could include aggregations, calculations, or transformations needed for analysis and reporting.
 
-5. *Grouping Columns:* Columns may have been grouped together to create hierarchies or to organize data for better visualization and analysis.
+5. *Grouping Columns:* Columns were grouped together to create hierarchies or to organize data for better visualization and analysis.
 
 6. *Dashboard Creation:* Dashboards were designed to present key metrics and insights in a visually appealing and interactive manner. This involved arranging visualizations, adding slicers or filters for interactivity, and configuring the layout to convey information effectively.
 
@@ -39,7 +40,6 @@ Before visualizing data in Power BI, the following steps were undertaken:
 
 By performing these steps, the data was prepared, transformed, and organized in Power BI to facilitate meaningful analysis and visualization, leading to the creation of insightful dashboards and reports.
 
-[Click here](https://github.com/AmaPrecious/Dano_Airline_passenger_satisfacion/blob/main/AIRLINE%20SERVICE%20SATISFACTION%20DASBOARD.pbix) to gain access to the interactive dashboard.
 
 ## Visualization
 
@@ -68,6 +68,7 @@ By performing these steps, the data was prepared, transformed, and organized in 
    
 18. Additionally, age data was aggregated, and a new table called "age_range" was created to facilitate age-based analysis.
 
+[Click here](https://github.com/AmaPrecious/Dano_Airline_passenger_satisfacion/blob/main/AIRLINE%20SERVICE%20SATISFACTION%20DASBOARD.pbix) to gain access to the interactive dashboard.
 
 ## Conclusion:
 
